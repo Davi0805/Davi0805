@@ -8,5 +8,5 @@
 - Cloud: GCP
 - Db: Postgres, Redis(caching)
 - VM/Container: Docker and Virtual box
-- DevOps: Prometheus, grafana, nginx
+- DevOps: Prometheus, grafana, github actions, nginx
 - Scrum methodology
