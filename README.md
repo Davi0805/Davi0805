@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning C/C++/Java
 - Knowledge of Rest api, Microservice architecture.
-- Cloud: GCP
+- Cloud: GCP, Digital ocean
 - Db: Postgres, Redis(caching)
 - VM/Container: Docker and Virtual box
 - DevOps: Prometheus, grafana, github actions, nginx
