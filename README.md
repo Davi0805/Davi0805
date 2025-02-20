@@ -9,4 +9,4 @@
 - Db: Postgres, Redis(caching)
 - VM/Container: Docker and Virtual box
 - DevOps: Prometheus, grafana, github actions, nginx
-- Scrum methodology
+- Message queue: Redis streams
