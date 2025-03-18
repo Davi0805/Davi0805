@@ -10,4 +10,4 @@
 - No sql db: Redis(caching)
 - VM/Container: Docker and Virtual box
 - DevOps: Prometheus, grafana, github actions, nginx
-- Message queue: Redis streams
+- Messaging: Redis streams, Kafka and gRPC
